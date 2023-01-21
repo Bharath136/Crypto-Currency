@@ -1,0 +1,21 @@
+.crypto-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 20px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+}
+
+.val {
+  width: 100px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.image {
+  height: 30px;
+  margin-right: 10px;
+}
